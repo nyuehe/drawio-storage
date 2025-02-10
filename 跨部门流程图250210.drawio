@@ -103,7 +103,7 @@
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-79" value="客户经理与运营主管确认近期可预约时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bl0EzrdsrcNXTwOKAy7L-12">
           <mxGeometry x="12.5" y="20" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-83" value="发送预约单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bl0EzrdsrcNXTwOKAy7L-12">
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-83" value="发送预约单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Bl0EzrdsrcNXTwOKAy7L-12">
           <mxGeometry x="12.5" y="110" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-13" value="" style="swimlane;startSize=0;" vertex="1" parent="Bl0EzrdsrcNXTwOKAy7L-11">
@@ -172,7 +172,7 @@
             <mxRectangle x="20" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-82" value="发送生产单并截取传染病检测报告为附件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bl0EzrdsrcNXTwOKAy7L-22">
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-82" value="发送生产单并截取传染病检测报告附件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bl0EzrdsrcNXTwOKAy7L-22">
           <mxGeometry x="12.5" y="10" width="75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-90" value="发送服务单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bl0EzrdsrcNXTwOKAy7L-22">
@@ -598,7 +598,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-246" value="桂林P0-P5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="1830" width="80" height="40" as="geometry" />
+          <mxGeometry x="1256" y="1830" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-247" target="Bl0EzrdsrcNXTwOKAy7L-248">
           <mxGeometry relative="1" as="geometry" />
@@ -607,10 +607,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-247" value="免疫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="1520" width="80" height="40" as="geometry" />
+          <mxGeometry x="1390" y="1520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-359" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-248" target="Bl0EzrdsrcNXTwOKAy7L-355">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-248" value="免疫细胞储存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="1620" width="80" height="40" as="geometry" />
+          <mxGeometry x="1350" y="1620" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-249" target="Bl0EzrdsrcNXTwOKAy7L-266">
           <mxGeometry relative="1" as="geometry">
@@ -660,13 +663,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-259" value="青岛P3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="1720" width="80" height="40" as="geometry" />
+          <mxGeometry x="1450" y="1715" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-263" target="Bl0EzrdsrcNXTwOKAy7L-341">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-263" value="桂林P0-P5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="1720" width="80" height="40" as="geometry" />
+          <mxGeometry x="1560" y="1715" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-265" target="Bl0EzrdsrcNXTwOKAy7L-269">
           <mxGeometry relative="1" as="geometry" />
@@ -762,28 +765,46 @@
           <mxGeometry x="1241" y="1640" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-339" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;免疫细胞也是P0-P5吗？&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="1691" width="76" height="30" as="geometry" />
+          <mxGeometry x="1510" y="1660" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-345" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-340" target="Bl0EzrdsrcNXTwOKAy7L-341">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-340" value="制备P5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="1880" width="80" height="40" as="geometry" />
+          <mxGeometry x="1450" y="1875" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-341" value="回输" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="1960" width="80" height="40" as="geometry" />
+          <mxGeometry x="1450" y="1955" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-344" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-342" target="Bl0EzrdsrcNXTwOKAy7L-340">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-342" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;有复苏步骤吗？&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="1800" width="80" height="40" as="geometry" />
+          <mxGeometry x="1450" y="1795" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-347" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;桂林做P0-P3吗？还是把血运去青岛?&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="1965" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-348" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;实验室有大致有哪几个流程？干细胞和免疫流程一样吗？分离完华通氏胶就得到进液氮罐的种子细胞吗？&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="2020" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-353" value="3个关键时间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="850" y="360" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-354" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-355" target="Bl0EzrdsrcNXTwOKAy7L-357">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-355" value="采样" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1695" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-356" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-357" target="Bl0EzrdsrcNXTwOKAy7L-358">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-357" value="提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1765" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-358" value="储存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1835" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
