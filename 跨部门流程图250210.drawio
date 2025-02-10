@@ -533,7 +533,7 @@
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-96" value="在产品出库服务时需打印专家解读报告，在服务地点交由医生对客户进行面诊。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bl0EzrdsrcNXTwOKAy7L-196">
           <mxGeometry x="10.75" y="110" width="78.5" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-232" value="通知财务合同完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bl0EzrdsrcNXTwOKAy7L-196">
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-232" value="通知财务服务完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bl0EzrdsrcNXTwOKAy7L-196">
           <mxGeometry x="19.380000000000003" y="235" width="61.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-198" value="" style="swimlane;startSize=0;" vertex="1" parent="Bl0EzrdsrcNXTwOKAy7L-165">
