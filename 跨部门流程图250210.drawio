@@ -56,7 +56,7 @@
           <mxGeometry x="10" y="40" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-59" value="和客户解释" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Bl0EzrdsrcNXTwOKAy7L-6">
-          <mxGeometry x="10" y="140" width="80" height="60" as="geometry" />
+          <mxGeometry x="15" y="150" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-69" value="客户确认产品类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bl0EzrdsrcNXTwOKAy7L-6">
           <mxGeometry x="12.5" y="310" width="70" height="40" as="geometry" />
@@ -217,7 +217,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Bl0EzrdsrcNXTwOKAy7L-19" source="Bl0EzrdsrcNXTwOKAy7L-89" target="Bl0EzrdsrcNXTwOKAy7L-90">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="110" />
+              <mxPoint x="270" y="110" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Bl0EzrdsrcNXTwOKAy7L-19" source="Bl0EzrdsrcNXTwOKAy7L-90" target="Bl0EzrdsrcNXTwOKAy7L-98">
           <mxGeometry relative="1" as="geometry" />
