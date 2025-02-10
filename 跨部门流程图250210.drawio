@@ -546,8 +546,8 @@
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-94" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="1990" width="78.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-226" value="&lt;div&gt;（免疫细胞至少提前18天，干细胞需提前与运营主管沟通）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;客户经理选择预约时间，至少提前1天16:00前发送预约单（Reservation）邮件至运营邮箱，抄送财务部确认邮箱。&lt;/div&gt;（16:00前应提醒财务完成收款确认）" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="800" y="290" width="120" height="240" as="geometry" />
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-226" value="&lt;div align=&quot;left&quot;&gt;（免疫细胞至少提前18天，干细胞需提前与运营主管沟通）&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;客户经理选择预约时间，至少提前1天16:00前发送预约单（Reservation）邮件至运营邮箱，抄送财务部确认邮箱。&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;（16:00前应提醒财务完成收款确认）&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;" vertex="1" parent="1">
+          <mxGeometry x="840" y="470" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-228" value="复苏还是桂林制备" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="1100" width="80" height="80" as="geometry" />
