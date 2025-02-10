@@ -615,8 +615,8 @@
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-249" target="Bl0EzrdsrcNXTwOKAy7L-266">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="990" y="1770" />
-              <mxPoint x="880" y="1770" />
+              <mxPoint x="990" y="1780" />
+              <mxPoint x="880" y="1780" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -675,7 +675,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-266" value="采样" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1790" width="80" height="40" as="geometry" />
+          <mxGeometry x="840" y="1810" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-268" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;家族库？是干细胞还是免疫细胞？&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1520" width="80" height="40" as="geometry" />
@@ -693,7 +693,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-270" value="提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1860" width="80" height="40" as="geometry" />
+          <mxGeometry x="840" y="1880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-320" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-272" target="Bl0EzrdsrcNXTwOKAy7L-308">
           <mxGeometry relative="1" as="geometry" />
@@ -720,7 +720,7 @@
           <mxGeometry x="1010" y="1820" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-303" value="储存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1930" width="80" height="40" as="geometry" />
+          <mxGeometry x="840" y="1950" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-308" target="Bl0EzrdsrcNXTwOKAy7L-309">
           <mxGeometry relative="1" as="geometry" />
@@ -737,7 +737,7 @@
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-316" target="Bl0EzrdsrcNXTwOKAy7L-317">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-316" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;有复苏这个步骤？&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-316" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;是否有复苏步骤？&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1900" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-324" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-317" target="Bl0EzrdsrcNXTwOKAy7L-323">
