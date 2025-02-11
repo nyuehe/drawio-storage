@@ -112,8 +112,8 @@
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-79" value="客户经理与运营主管确认近期可预约时间" style="rounded=0;whiteSpace=wrap;html=1;" parent="Bl0EzrdsrcNXTwOKAy7L-12" vertex="1">
           <mxGeometry x="12.5" y="20" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-83" value="&lt;div&gt;发送预约单至运营邮箱，抄送财务部确认邮箱&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Bl0EzrdsrcNXTwOKAy7L-12" vertex="1">
-          <mxGeometry x="8.75" y="100" width="77.5" height="70" as="geometry" />
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-83" value="&lt;div&gt;发送预约单至运营邮箱，抄送财务部邮箱&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Bl0EzrdsrcNXTwOKAy7L-12" vertex="1">
+          <mxGeometry x="8.75" y="110" width="77.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-18" value="" style="swimlane;startSize=0;" parent="Bl0EzrdsrcNXTwOKAy7L-364" vertex="1">
           <mxGeometry x="620" width="100" height="260" as="geometry">
