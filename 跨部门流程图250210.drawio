@@ -863,7 +863,7 @@
         <mxCell id="nnDbPFHvhxrAprr4la8_-20" value="抽脂采样（医美机构）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-700" y="1630" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nnDbPFHvhxrAprr4la8_-24" value="目前做不了" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nnDbPFHvhxrAprr4la8_-24" value="非可持续方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-123" y="1330" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nnDbPFHvhxrAprr4la8_-25" value="过渡期方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
