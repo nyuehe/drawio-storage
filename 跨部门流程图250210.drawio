@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" version="26.0.11">
   <diagram name="第 1 页" id="P5GKuLmZve2yfpyJQXsA">
-    <mxGraphModel dx="2022" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -631,10 +631,12 @@
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-240" value="③自体间充质干细胞" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-603" y="1570" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-241" target="Bl0EzrdsrcNXTwOKAy7L-316" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-241" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-453" y="1750" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-241" value="青岛P5" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-241" value="青岛P5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-493" y="1680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-242" target="Bl0EzrdsrcNXTwOKAy7L-243" edge="1">
@@ -796,20 +798,14 @@
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-310" value="储存" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-603" y="1910" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-316" target="Bl0EzrdsrcNXTwOKAy7L-317" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-316" value="出库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-493" y="1750" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-324" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-317" target="Bl0EzrdsrcNXTwOKAy7L-323" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-317" value="实验室操作" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-492" y="1820" width="80" height="40" as="geometry" />
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-317" value="复苏" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-493" y="1750" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-323" value="回输" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-492" y="1890" width="80" height="40" as="geometry" />
+          <mxGeometry x="-493" y="1830" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-335" value="①-⑦号产品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-123" y="1280" width="80" height="40" as="geometry" />
@@ -866,6 +862,12 @@
         </mxCell>
         <mxCell id="nnDbPFHvhxrAprr4la8_-20" value="抽脂采样（医美机构）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-700" y="1630" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDbPFHvhxrAprr4la8_-24" value="目前做不了" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-123" y="1330" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDbPFHvhxrAprr4la8_-25" value="过渡期方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-123" y="1380" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
