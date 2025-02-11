@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" version="26.0.11">
   <diagram name="第 1 页" id="P5GKuLmZve2yfpyJQXsA">
-    <mxGraphModel dx="2022" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -628,7 +628,7 @@
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-292" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-240" target="Bl0EzrdsrcNXTwOKAy7L-291" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-240" value="自体间充质干细胞" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-240" value="③自体间充质干细胞" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-603" y="1570" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-241" target="Bl0EzrdsrcNXTwOKAy7L-316" edge="1">
@@ -664,7 +664,7 @@
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-245" target="Bl0EzrdsrcNXTwOKAy7L-241" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-245" value="通用型充质干细胞" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-245" value="④通用型充质干细胞" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-443" y="1570" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-325" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-246" target="Bl0EzrdsrcNXTwOKAy7L-323" edge="1">
@@ -685,13 +685,13 @@
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-359" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-248" target="Bl0EzrdsrcNXTwOKAy7L-355" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-248" value="免疫细胞储存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-248" value="⑥免疫细胞储存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-303" y="1470" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nnDbPFHvhxrAprr4la8_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-249" target="nnDbPFHvhxrAprr4la8_-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-249" value="脂肪源干细胞" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-249" value="②脂肪源干细胞" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-703" y="1570" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-251" target="Bl0EzrdsrcNXTwOKAy7L-256" edge="1">
@@ -706,7 +706,7 @@
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-252" target="Bl0EzrdsrcNXTwOKAy7L-263" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-252" value="免疫细胞回输（存+打）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-252" value="⑦免疫细胞回输（存+打）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-203" y="1470" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-255" target="Bl0EzrdsrcNXTwOKAy7L-242" edge="1">
@@ -721,7 +721,7 @@
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-304" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-256" target="Bl0EzrdsrcNXTwOKAy7L-266" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-256" value="围产组织干细胞" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-256" value="①围产组织干细胞" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-813" y="1570" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nnDbPFHvhxrAprr4la8_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-263" target="nnDbPFHvhxrAprr4la8_-5">
@@ -739,10 +739,10 @@
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-266" target="Bl0EzrdsrcNXTwOKAy7L-270" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-266" value="产科采样" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-266" value="采样(医院产科)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-813" y="1630" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-268" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;家族细胞库（存脐带胎盘干细胞+6次制备）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-268" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;⑤家族细胞库（存脐带胎盘干细胞+6次制备）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-413" y="1470" width="93" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-318" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-269" target="Bl0EzrdsrcNXTwOKAy7L-308" edge="1">
@@ -823,7 +823,7 @@
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-354" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-355" target="Bl0EzrdsrcNXTwOKAy7L-357" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-355" value="采样" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Bl0EzrdsrcNXTwOKAy7L-355" value="采样(第三方机构诊所)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-303" y="1545" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bl0EzrdsrcNXTwOKAy7L-356" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bl0EzrdsrcNXTwOKAy7L-357" target="Bl0EzrdsrcNXTwOKAy7L-358" edge="1">
@@ -864,7 +864,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nnDbPFHvhxrAprr4la8_-20" value="第三方机构抽脂采样" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nnDbPFHvhxrAprr4la8_-20" value="抽脂采样（医美机构）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-700" y="1630" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
