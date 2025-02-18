@@ -674,6 +674,9 @@
             <mxRectangle x="10" y="250" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="z4u3lQgUESEPgdicejMF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="65ymbqOaLTvDdtXM84UY-5" source="65ymbqOaLTvDdtXM84UY-6" target="65ymbqOaLTvDdtXM84UY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="65ymbqOaLTvDdtXM84UY-6" value="前台接待登记展厅参观信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="65ymbqOaLTvDdtXM84UY-5">
           <mxGeometry x="10" y="40" width="80" height="60" as="geometry" />
         </mxCell>
@@ -703,9 +706,6 @@
           <mxGeometry x="10" y="250" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="65ymbqOaLTvDdtXM84UY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="65ymbqOaLTvDdtXM84UY-2" source="65ymbqOaLTvDdtXM84UY-6" target="65ymbqOaLTvDdtXM84UY-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="65ymbqOaLTvDdtXM84UY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="65ymbqOaLTvDdtXM84UY-2" source="65ymbqOaLTvDdtXM84UY-16" target="65ymbqOaLTvDdtXM84UY-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="65ymbqOaLTvDdtXM84UY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="65ymbqOaLTvDdtXM84UY-2" source="65ymbqOaLTvDdtXM84UY-12" target="65ymbqOaLTvDdtXM84UY-13">
