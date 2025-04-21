@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" border="50" scale="3" compressed="false" locked="false" version="26.2.13">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1354" dy="981" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1428" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -322,6 +322,30 @@
         </mxCell>
         <mxCell id="Gr0Zq-AI6Quabplr0KPa-248" style="edgeStyle=none;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryPerimeter=0;endArrow=classicThin;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=none;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=12;rounded=0;startSize=8;endSize=8;curved=1;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="Gr0Zq-AI6Quabplr0KPa-238" target="Gr0Zq-AI6Quabplr0KPa-247" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eveD_tWkmfND_6KhvDtG-1" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;投资体系&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="289" y="635" width="108" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="eveD_tWkmfND_6KhvDtG-3" value="价值投资" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="76" y="621.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eveD_tWkmfND_6KhvDtG-4" value="投机" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="501" y="621.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eveD_tWkmfND_6KhvDtG-5" value="技术指标" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="544" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eveD_tWkmfND_6KhvDtG-7" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eveD_tWkmfND_6KhvDtG-1" target="eveD_tWkmfND_6KhvDtG-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389" y="542" as="sourcePoint" />
+            <mxPoint x="439" y="492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eveD_tWkmfND_6KhvDtG-9" value="基础知识" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="709" y="656" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eveD_tWkmfND_6KhvDtG-10" value="理论" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="704" y="779" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
